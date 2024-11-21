@@ -14,4 +14,3 @@ https://www.romhacking.net/utilities/826/
 
 Credits:
 Original LZX (LZ40) format by CUE
-Reference: https://www.romhacking.net/utilities/826/
