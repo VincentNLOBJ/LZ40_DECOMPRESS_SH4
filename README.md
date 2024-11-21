@@ -2,7 +2,7 @@
 Decompress LZ40 ASM function for SH4 ( Dreamcast / Naomi )
 
 
-# ♥ Support ♥: 
+# ♥ Support ♥
 - https://ko-fi.com/vincentnl
 - https://ko-fi.com/patreon.com/vincentnl
 
